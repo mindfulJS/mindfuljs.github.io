@@ -1,1 +1,0 @@
-function o(){return{about:{introduction:"My name is Ben and I am an ambitious software developer. I am passionate about new technology and inspired by fast-growing companies.",skills:"I love development and design.",likes:"I also love coffee.",contact:"https://github.com/mindfulJS",iconWelcome:"coffee5.svg",iconSkills:"star.svg",iconContact:"mail.svg"}}}export{o as g};
